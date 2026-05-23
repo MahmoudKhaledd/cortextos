@@ -6,11 +6,11 @@
 **Schedule:** 4-hour heartbeat cycle
 
 ## Last Heartbeat
-- **Time:** (initializing)
-- **Status:** bootstrapping
-- **Summary:** First heartbeat cycle — agent state being initialized.
+- **Time:** 2026-05-23T00:12Z
+- **Status:** idle
+- **Summary:** No tasks in queue; work repo inaccessible without credentials; awaiting task assignment from orchestrator.
 
 ## Heartbeat History
 | Time (UTC) | Status | Summary |
 |------------|--------|---------|
-| (none yet) | — | — |
+| 2026-05-23T00:12Z | idle | No tasks; repo Remoteand-org/remote-and inaccessible (no credentials); message queued to orchestrator. |
