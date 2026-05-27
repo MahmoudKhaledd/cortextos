@@ -31,6 +31,7 @@
 - 2026-05-26T20:00Z: Nineteenth heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1779825773009-cortextos-crvgd).
 - 2026-05-27T04:03Z: Twentieth heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1779854581093-cortextos-hgjcq).
 - 2026-05-27T08:00Z: Twenty-first heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1779868988586-cortextos-6ln1i).
+- 2026-05-27T12:00Z: Twenty-second heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1779883481131-cortextos-x2qgh).
 - Work repo (Remoteand-org/remote-and) is inaccessible without GitHub credentials in this env.
 - Orchestrator not registered in bus — messages queue but are unread.
 - Bus heartbeat state stored at /root/.cortextos/default/state/cortextos/heartbeat.json.
@@ -41,7 +42,7 @@
 - cortextOS root: /home/user/cortextos
 - Org: remoteand
 - No PRs open as of bootstrap.
-- orgs/ directory is gitignored — agent state is local only, not committed to cortextos repo.
+- orgs/ directory is gitignored — agent state tracked via force-add on tracked files.
 
 ## Conventions
 - Silent heartbeat — no Telegram/broadcast messages.
