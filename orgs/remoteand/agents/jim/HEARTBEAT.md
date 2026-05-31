@@ -6,13 +6,14 @@
 **Schedule:** 4-hour heartbeat cycle
 
 ## Last Heartbeat
-- **Time:** 2026-05-29T20:02Z
+- **Time:** 2026-05-31T00:04Z
 - **Status:** idle
-- **Summary:** Task queue empty, inbox empty. Work repo inaccessible (no GitHub credentials). Idle — awaiting tasks from orchestrator.
+- **Summary:** Task queue empty, inbox empty. Work repo inaccessible (no GitHub credentials). Idle notice queued (msg ID: 1780185846091-cortextos-tz98p).
 
 ## Heartbeat History
 | Time (UTC) | Status | Summary |
 |------------|--------|---------|
+| 2026-05-31T00:04Z | idle | Task queue empty, inbox empty. Idle notice queued (msg ID: 1780185846091-cortextos-tz98p). |
 | 2026-05-29T20:02Z | idle | Task queue empty, inbox empty. Work repo inaccessible (no credentials). Idle notice queued to orchestrator. |
 | 2026-05-29T04:00Z | idle | Task queue empty, inbox empty. Work repo inaccessible (no credentials). Idle notice queued to orchestrator. |
 | 2026-05-28T16:00Z | idle | Task queue empty, inbox empty. Work repo inaccessible (no credentials). Idle notice queued to orchestrator. |
