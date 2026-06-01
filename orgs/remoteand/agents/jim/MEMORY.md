@@ -57,6 +57,7 @@
 - 2026-05-31T16:00Z: Forty-fifth heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1780243363255-cortextos-gyuh8).
 - 2026-05-31T20:00Z: Forty-sixth heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1780257745757-cortextos-07e6r).
 - 2026-06-01T00:00Z: Forty-seventh heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1780272180740-cortextos-qgfef).
+- 2026-06-01T04:00Z: Forty-eighth heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1780286633668-cortextos-1jp8u). GitHub MCP confirmed restricted to mahmoudkhaledd/cortextos only.
 - Work repo (Remoteand-org/remote-and) is inaccessible without GitHub credentials in this env.
 - Orchestrator not registered in bus — messages queue but are unread.
 - Bus heartbeat state stored at /root/.cortextos/default/state/cortextos/heartbeat.json.
