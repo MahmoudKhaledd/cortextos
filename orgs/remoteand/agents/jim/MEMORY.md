@@ -88,6 +88,7 @@
 - 2026-06-06T08:00Z: Seventy-sixth heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1780733036636-cortextos-0hvwv).
 - 2026-06-06T12:00Z: Seventy-seventh heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1780747434238-cortextos-npe78).
 - 2026-06-06T12:00Z: Seventy-eighth heartbeat cycle. Task queue empty, inbox empty. Idle notice queued (msg ID: 1780761792224-cortextos-5z7tr).
+- 2026-06-06T20:03Z: Seventy-ninth heartbeat cycle. Task queue empty, inbox empty. Idle — awaiting task assignment. Work repo inaccessible (no credentials).
 - Work repo (Remoteand-org/remote-and) is inaccessible without GitHub credentials in this env.
 - Orchestrator not registered in bus — messages queue but are unread.
 - Bus heartbeat state stored at /root/.cortextos/default/state/cortextos/heartbeat.json.
